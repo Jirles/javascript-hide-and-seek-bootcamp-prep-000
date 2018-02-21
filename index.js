@@ -15,6 +15,6 @@ function increaseRankBy(n){
 }
 
 function deepestChild(){
-  var grandNodeChildren = document.querySelectorAll('#grand-node'>)
+  var grandNodeChildren = document.querySelectorAll('#grand-node'>*)
   return 'hold your horses'
 }
